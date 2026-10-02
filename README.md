@@ -1,12 +1,9 @@
 <div align="center">
 
-<<<<<<< HEAD
 <img src="assets/Logo.png" width="140" alt="Logo Nusly">
 
-# Nusly>
-=======
-# 🧭 Nusly
->>>>>>> 8df9820 (Tambah logo Nusly)
+# Nusly
+
 
 ### Simpan spot dari sosmed, biarkan AI yang menyusun perjalananmu.
 
