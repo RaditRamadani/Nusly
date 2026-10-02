@@ -4,7 +4,6 @@
 
 # Nusly
 
-
 ### Simpan spot dari sosmed, biarkan AI yang menyusun perjalananmu.
 
 Aplikasi travel planner berbasis AI untuk wisata di Indonesia.
