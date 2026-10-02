@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./Logo.png" alt="Nusly Logo" width="180">
+<img src="assets/Logo.png" width="140" alt="Logo Nusly">
+
+# Nusly>
 
 ### Simpan spot dari sosmed, biarkan AI yang menyusun perjalananmu.
 
