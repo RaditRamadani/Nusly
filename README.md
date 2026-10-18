@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Logo.png" width="140" alt="Logo Nusly">
+<img src="assets/Logo baru remove.png" width="140" alt="Logo Nusly">
 
 # Nusly
 
